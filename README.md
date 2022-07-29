@@ -1,4 +1,8 @@
-## You should create new secrets.py file in mysite directory. And add the following data there: 
+# Blog
+
+## 1. You should create new secrets.py file in mysite directory
+
+## 2. Add the following data there: 
 
 - email_host_user, email_host_password - To enable email distribution
 
